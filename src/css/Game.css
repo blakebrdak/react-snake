@@ -1,0 +1,31 @@
+.game {
+    border: 5px solid black;
+    border-radius: 40px;
+    width: 45rem;
+    height: 45rem;
+    margin: auto;
+    margin-top: 3rem;
+    position: relative;
+    /* background-image: linear-gradient(#000000 0.5px, transparent 0.5px, transparent calc(100% - 0.5px), #000000 calc(100% - 0.5px)), linear-gradient(90deg, #000000 0.5px, transparent 0.5px, transparent calc(100% - 0.5px), #000000 calc(100% - 0.5px));
+    background-size: 6.25% 6.25%;
+    border: 0.5px solid #000000; */
+}
+
+.game-over {
+    position: fixed;
+    left: 40%;
+    top: 30%;
+    font-size: 5rem;
+}
+
+.start {
+    position: fixed;
+    width: 25%;
+    left: 38%;
+    top: 30%;
+    font-size: 3rem;
+}
+
+.over-hidden {
+    visibility: hidden;
+}

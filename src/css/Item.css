@@ -1,0 +1,9 @@
+.item {
+    width: 3%;
+    height: 3%;
+    background-color: #BB0000;
+    border: 2px solid #666666;
+    border-radius: 15px;
+    position: absolute;
+    visibility: visible;
+}

@@ -1,0 +1,8 @@
+.player {
+    background-color: #00274C;
+    border: .35rem solid #FFCB05;
+    border-radius: 40px;
+    position: absolute; 
+    /* box-sizing: border-box; */
+    transition: left 0.5s, top 0.5s, opacity 2s ease-in;
+}
